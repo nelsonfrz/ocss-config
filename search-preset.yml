@@ -34,7 +34,7 @@ ocs:
           label: Category
           order: 1
           excludeFromFacetLimit: true
-        - label: Hallo Welt
+        - label: Brand
           source-field: brand
           multi-select: true
           order: 2
