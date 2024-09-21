@@ -39,7 +39,7 @@ ocs:
           order: 1
           excludeFromFacetLimit: true
         - source-field: brand
-          label: WOWW
+          label: Brand
           order: 2
           multi-select: true
           excludeFromFacetLimit: true
