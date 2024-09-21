@@ -38,11 +38,6 @@ ocs:
           label: Category
           order: 1
           excludeFromFacetLimit: true
-        - source-field: brand
-          label: Brand
-          order: 2
-          multi-select: true
-          excludeFromFacetLimit: true
         - source-field: price
           label: Price
           order: 3
